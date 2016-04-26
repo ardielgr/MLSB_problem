@@ -1,0 +1,17 @@
+40 40
+
+ Sample: 0  B: 1  MVCA: 6  EXACT: 6  t_MVCA: 4.000000  t_EXACT: 9034.000000  Best_call: 0  with 102090 total calls.
+ Sample: 1  B: 1  MVCA: 6  EXACT: 6  t_MVCA: 1.000000  t_EXACT: 9039.000000  Best_call: 0  with 102090 total calls.
+ Sample: 2  B: 1  MVCA: 7  EXACT: 6  t_MVCA: 2.000000  t_EXACT: 9612.000000  Best_call: 6  with 102092 total calls.
+ Sample: 3  B: 1  MVCA: 6  EXACT: 6  t_MVCA: 2.000000  t_EXACT: 8819.000000  Best_call: 0  with 102088 total calls.
+ Sample: 4  B: 1  MVCA: 7  EXACT: 6  t_MVCA: 1.000000  t_EXACT: 38062.000000  Best_call: 190260  with 271912 total calls.
+ Sample: 5  B: 1  MVCA: 6  EXACT: 6  t_MVCA: 1.000000  t_EXACT: 8856.000000  Best_call: 0  with 102090 total calls.
+ Sample: 6  B: 1  MVCA: 5  EXACT: 5  t_MVCA: 1.000000  t_EXACT: 717.000000  Best_call: 0  with 10700 total calls.
+ Sample: 7  B: 1  MVCA: 5  EXACT: 5  t_MVCA: 1.000000  t_EXACT: 701.000000  Best_call: 0  with 10700 total calls.
+ Sample: 8  B: 1  MVCA: 5  EXACT: 5  t_MVCA: 1.000000  t_EXACT: 724.000000  Best_call: 0  with 10700 total calls.
+ Sample: 9  B: 1  MVCA: 8  EXACT: 7  t_MVCA: 2.000000  t_EXACT: 124959.000000  Best_call: 216638  with 951011 total calls.
+
+************************ SPERIMENTALS EXECUTING VALUES: ************************
+
+	   MVCA  Average Value: 6.100000	   Average Time (msec): 1.600000
+	   EXACT Average Value: 5.800000	   Average Time (msec): 21052.300000

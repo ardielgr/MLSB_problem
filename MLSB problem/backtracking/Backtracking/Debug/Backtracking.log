@@ -1,0 +1,102 @@
+﻿Build started 21/04/2015 13:12:16.
+Project "\\vmware-host\Shared Folders\Downloads\Backtracking\Backtracking\Backtracking.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Creating "Debug\Backtracking.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  All outputs are up-to-date.
+  c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Backtracking.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Backtracking.cpp
+  Backtracking.cpp
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(95): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(198): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(205): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(214): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(241): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(365): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(379): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(486): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(507): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(522): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(529): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(616): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(618): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(629): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(662): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(691): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(708): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(749): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(757): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(764): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(768): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(769): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(776): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(780): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(781): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(784): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(792): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(805): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(813): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(818): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(821): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(824): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(828): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(834): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(835): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+\\vmware-host\shared folders\downloads\backtracking\backtracking\backtracking.cpp(914): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+ManifestResourceCompile:
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Backtracking.exe.embed.manifest.res" Debug\Backtracking_manifest.rc 
+Link:
+  c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\vmware-host\Shared Folders\Downloads\Backtracking\Debug\Backtracking.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Backtracking.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"\\vmware-host\Shared Folders\Downloads\Backtracking\Debug\Backtracking.pdb" /SUBSYSTEM:CONSOLE /HEAP:"33554432","131072" /STACK:"33554432","131072" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\vmware-host\Shared Folders\Downloads\Backtracking\Debug\Backtracking.lib" /MACHINE:X86 Debug\Backtracking.exe.embed.manifest.res
+  Debug\Backtracking.obj
+  Debug\stdafx.obj
+Manifest:
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Backtracking.exe.embed.manifest" /manifest Debug\Backtracking.exe.intermediate.manifest
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Backtracking.exe.embed.manifest.res" Debug\Backtracking_manifest.rc 
+LinkEmbedManifest:
+  c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\vmware-host\Shared Folders\Downloads\Backtracking\Debug\Backtracking.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Backtracking.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"\\vmware-host\Shared Folders\Downloads\Backtracking\Debug\Backtracking.pdb" /SUBSYSTEM:CONSOLE /HEAP:"33554432","131072" /STACK:"33554432","131072" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\vmware-host\Shared Folders\Downloads\Backtracking\Debug\Backtracking.lib" /MACHINE:X86 Debug\Backtracking.exe.embed.manifest.res
+  Debug\Backtracking.obj
+  Debug\stdafx.obj
+  Backtracking.vcxproj -> \\vmware-host\Shared Folders\Downloads\Backtracking\Debug\Backtracking.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\Backtracking.unsuccessfulbuild".
+  Touching "Debug\Backtracking.lastbuildstate".
+Done Building Project "\\vmware-host\Shared Folders\Downloads\Backtracking\Backtracking\Backtracking.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:01:15.66
